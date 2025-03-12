@@ -1,6 +1,10 @@
 body{
   font-family: verdana;
-  background-color: #121334;
+  background:url("R.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
   color: white;
   display: flex;
   align-items: center;
