@@ -27,7 +27,8 @@ body{
   padding-left: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
-  cursor: pointer
+  cursor: pointer;
+  backdrop-filter: 5px;
 }
 #con1:hover,
 #con2:hover,
