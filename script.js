@@ -99,4 +99,9 @@ content3.onclick = function(){
 next3.onclick = function(){
   final.style.display = "flex";
   divthree.style.display = "none";
+   confetti({
+      particleCount: 150,
+      spread: 70,
+      origin: { y: 0.6 }
+    });
 }
